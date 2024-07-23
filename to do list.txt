@@ -1,0 +1,28 @@
+Base de Donnée
+Serveur : 
+    namorona classe ray Serveur.java
+        misy fonction activation()
+            otrin we mamelon anle Serveur zan
+            miants ny class ServerSocket izay efa misy
+            de ny attribut_an ny port
+            miants ny class Socket atao Client 
+            namorona class roa :
+                1-EnvoiServ.java 
+                2-ReceivServ.java
+    namorona class ray ServeurMain.java izay manao execution anle Serveur.java
+
+Client : 
+    namorona classe ray Client.java
+        misy fonction se_connecter()
+        mi instanc n class Socket de alef attribuan ny IP sy n Port izay ifandraisany @ Serveur
+        namorona class roa :
+            1-Clientsend.java 
+            2-Clientrcv.java
+    namorona class ray ClientMain.java izay manao execution anle Client.java      
+
+Fonction : 
+    izay mis n fonction rehetra izay noforonik ho ampiasai ao anatinle projet
+    sad mis main anaovak test
+
+
+         

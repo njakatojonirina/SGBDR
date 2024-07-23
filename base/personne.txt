@@ -1,0 +1,1 @@
+ personne ( nom string , numero int ) ( n , 1 ) ( b , 2 ) ( njaka , 1 )
